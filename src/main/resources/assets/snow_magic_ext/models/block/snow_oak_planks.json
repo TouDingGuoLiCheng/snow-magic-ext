@@ -1,0 +1,6 @@
+{
+    "parent":  "minecraft:block/oak_planks",
+    "textures":  {
+                     "all":  "minecraft:block/snow"
+                 }
+}

@@ -1,0 +1,6 @@
+{
+    "parent":  "minecraft:block/cobblestone_wall_side",
+    "textures":  {
+                     "wall":  "minecraft:block/snow"
+                 }
+}

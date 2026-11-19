@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "snow_magic_ext:block/snow_oak_slab"
+    },
+    "type=double": {
+      "model": "snow_magic_ext:block/snow_oak_planks"
+    },
+    "type=top": {
+      "model": "snow_magic_ext:block/snow_oak_slab_top"
+    }
+  }
+}
